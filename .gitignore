@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & models (不要把数据/模型上传到公开仓库)
+*.csv
+/models/
+/pred.csv
+
+# VSCode
+.vscode/
